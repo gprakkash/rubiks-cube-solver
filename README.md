@@ -1,5 +1,5 @@
 # Rubik's Cube Solver
-## This Program is a Rubik's Cube Solver which uses the Layer By Layer method to solve the CUBE!
+### This Program is a Rubik's Cube Solver which uses the Layer By Layer method to solve the CUBE!
 
 ### Running Instructions
 To run the Program just click on the EXE file!
